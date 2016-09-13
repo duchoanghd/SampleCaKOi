@@ -23,7 +23,7 @@ namespace cakoinhat.Controllers
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
-
+            //lag vcc
             return View();
         }
     }
