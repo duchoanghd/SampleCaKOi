@@ -14,5 +14,6 @@ namespace cakoinhat.Controllers
         {
             return View();
         }
+        // add new function
 	}
 }
