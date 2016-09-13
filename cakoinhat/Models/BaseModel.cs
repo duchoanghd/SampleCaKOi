@@ -7,5 +7,6 @@ namespace cakoinhat.Models
 {
     public class BaseModel : MSSQLConnect
     {
+        // tét
     }
 }
